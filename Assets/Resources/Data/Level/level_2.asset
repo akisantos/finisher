@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b883287722a274a8db76ef790d1189, type: 3}
+  m_Name: level_2
+  m_EditorClassIdentifier: 
+  sceneCode: 4
+  sceneType: 1
+  thumbnail: {fileID: 21300000, guid: e9ee8f2eb8bae024dabdd7524e1a279c, type: 3}
+  bgm: {fileID: 8300000, guid: df4cefbb137be79499025b2d16a820ca, type: 3}
+  timeComplete: NaN
+  unlocked: 0
